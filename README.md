@@ -14,6 +14,9 @@
 * [PPT 1 - Intro To Classifiers](pdf/ML1.pdf): The basic vocabulary of supervised learning and classifiers 
 * [Homework 1 - DIY_1D_Classifier](class/HW1_DIY_1D_Classifier.ipynb) | [HW1 Template](class/HW1_Template.ipynb): Make your own simple classifier!  Make that machine learn!
 
+## Classification Tools
+* [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_examples.ipynb): Notes on how to score a classifier.  With Math!
+
 <!---
 COMMENTS!!!!!
 
@@ -21,8 +24,7 @@ COMMENTS!!!!!
 * [Tutorial 5 - A_Classifier_Class](Tutorial_5_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
 * [Homework 2 - Won't You Be My Neighbor](HW2_Neighbors.ipynb): Make a simple Nearest Neighbor classifier
 
-## Classification Tools
-* [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf): Notes on how to score a classifier.  With Math!
+
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
 * [Tutorial 6 - Tuning and Evaluation](Tutorial_6_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 * [Tutorial 7 - Data Transforms](Tutorial_7_Data_Transforms.ipynb): The unskippable step of scaling data
