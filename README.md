@@ -7,7 +7,8 @@
 * [Tutorial 2 - Numpy](tutorial/Tutorial_02_Numpy.ipynb): Doing math with arrays in [numpy](https://numpy.org/)
 * [Tutorial 3 - matplotlib](tutorial/Tutorial_03_Plots_with_matplotlib.ipynb): Making plots with [matplotlib](https://matplotlib.org/)
 * Cheat Sheets: [numpy](pdf/numpy_cheat_sheet.pdf) | [matplotlib](pdf/matplotlib_cheat_sheet.pdf) | [pandas](pdf/pandas_cheat_sheet.pdf) | [sklearn](pdf/sklearn_cheat_sheet.pdf)
-* [Class Notes 1-22-24](Class_1_22_24_Intro.ipynb.ipynb): Examples from class
+* [Class Notes 1-22-24](class/Class_1_22_24_Intro.ipynb): Examples from class
+
 
 ## Machine Learning Basics
 * [Tutorial 4 - First_Look_at_Data](tutorial/Tutorial_04_First_Look_at_Data.ipynb): Using scikit-learn and pandas to look at real data
