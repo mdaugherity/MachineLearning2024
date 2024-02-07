@@ -16,17 +16,12 @@
 * [Homework 1 - DIY_1D_Classifier](class/HW1_DIY_1D_Classifier.ipynb) | [HW1 Template](class/HW1_Template.ipynb): Make your own simple classifier!  Make that machine learn!
 * [Homework 2 - Won't You Be My Neighbor](class/HW2_Neighbors.ipynb) | [HW2 Template](class/HW2_Template.ipynb): Make a simple Nearest Neighbor classifier
 
-
 ## Classification Tools
 * [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_examples.ipynb): Notes on how to score a classifier.  With Math!
+* [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
 
 <!---
 COMMENTS!!!!!
-
-
-* [Tutorial 5 - A_Classifier_Class](Tutorial_5_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
-* [Homework 2 - Won't You Be My Neighbor](HW2_Neighbors.ipynb): Make a simple Nearest Neighbor classifier
-
 
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
 * [Tutorial 6 - Tuning and Evaluation](Tutorial_6_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
