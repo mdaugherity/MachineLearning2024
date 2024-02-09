@@ -19,12 +19,13 @@
 ## Classification Tools
 * [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_examples.ipynb): Notes on how to score a classifier.  With Math!
 * [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
+* [Tutorial 6 - Tuning and Evaluation](tutorial/Tutorial_6_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 
 <!---
 COMMENTS!!!!!
 
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
-* [Tutorial 6 - Tuning and Evaluation](Tutorial_6_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
+
 * [Tutorial 7 - Data Transforms](Tutorial_7_Data_Transforms.ipynb): The unskippable step of scaling data
 
 ## Classifier Deep Dives
