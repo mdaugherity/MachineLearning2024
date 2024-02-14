@@ -21,6 +21,8 @@
 * [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
 * [Tutorial 6 - Tuning and Evaluation](tutorial/Tutorial_06_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 * [Tutorial 7 - Data Transforms and Pipelines](tutorial/Tutorial_07_Transforms_and_Pipelines.ipynb): The unskippable step of scaling data and why pipelines are great
+* [Tutorial 8 - First Classification Recipe](tutorial/Tutorial_08_First_Classification_Recipe.ipynb): Putting the pieces together into usable code!
+
 
 <!---
 COMMENTS!!!!!
