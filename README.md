@@ -26,7 +26,7 @@
 ## Classifier Deep Dives
 For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
 * Nearest Neighbors:  [PPT 3](pdf/ML3.pdf) | [Tutorial 9](tutorial/Tutorial_09_Nearest_Neighbors.ipynb)
-
+* Decision Trees: [PPT 4](pdf/ML4.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
 
 <!---
 COMMENTS!!!!!
@@ -35,7 +35,7 @@ COMMENTS!!!!!
 
 
 
-* Decision Trees: [PPT 4](pdf/ML4.pdf) | [Tutorial 9](Tutorial_9_Decision_Trees.ipynb)
+
 * [Tutorial 10 - Titanic Pandas](Tutorial_10_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
 * [Homework 3 - Trees on the Titanic](HW3_Trees_on_the_Titanic.ipynb): Find out who sinks and who swims on real Titanic data
 * [Class Challenge](Class_Challenge_03_20_23.ipynb): Spring Break is over, let's remember how to do machine learning
