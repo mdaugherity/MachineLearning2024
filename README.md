@@ -29,6 +29,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * Decision Trees: [PPT 4](pdf/ML4.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
 * [Homework 3 - Trees on the Titanic](class/HW3_Trees_on_the_Titanic.ipynb) | [HW3 Template](class/HW3_Template.ipynb): Find out who sinks and who swims on real Titanic data
+* Bayesian Classifier: [PPT 5](pdf/ML5.pdf) | [Tutorial 11](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
 
 <!---
 COMMENTS!!!!!
@@ -40,7 +41,7 @@ COMMENTS!!!!!
 
 
 * [Class Challenge](Class_Challenge_03_20_23.ipynb): Spring Break is over, let's remember how to do machine learning
-* Bayesian Classifier: [PPT 5](pdf/ML5.pdf) | [Tutorial 11](Tutorial_11_Bayesian_Classifier.ipynb)
+
 * [Tutorial 12 - Digits Dataset](Tutorial_12_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
 * [Homework 4 - Digits Throwdown](HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 * Linear Models: [PPT 6](pdf/ML6.pdf)
