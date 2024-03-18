@@ -33,7 +33,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 ## Data Sets
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
 * [Homework 3 - Trees on the Titanic](class/HW3_Trees_on_the_Titanic.ipynb) | [HW3 Template](class/HW3_Template.ipynb): Find out who sinks and who swims on real Titanic data
-* [Tutorial 12 - Digits Dataset](tutorial/Tutorial_13_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
+* [Tutorial 13 - Digits Dataset](tutorial/Tutorial_13_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
 * [Homework 4 - Digits Throwdown](class/HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 
 <!---
