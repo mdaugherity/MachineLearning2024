@@ -29,6 +29,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * Decision Trees: [PPT 4](pdf/ML4.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
 * Bayesian Classifier: [PPT 5](pdf/ML5.pdf) | [Tutorial 12](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
 * Linear Models: [PPT 6](pdf/ML6.pdf)
+* Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](Tutorial_14_Neural_Networks.ipynb)
 
 ## Data Sets
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
@@ -38,23 +39,14 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 
 <!---
 COMMENTS!!!!!
-
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
-
-
-
-
-
 * [Class Challenge](Class_Challenge_03_20_23.ipynb): Spring Break is over, let's remember how to do machine learning
 
-
-* Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 13](Tutorial_13_Neural_Networks.ipynb)
 
 ## Recipes
 Copy-and-paste code to get you started on a problem
 * [Classification Recipe](Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
 * [Regression Recipe](Regression_Recipe.ipynb): regression problems using pipelines and grid searches (doesn't include discussion on cleaning data)
-
 
 ## Special Topics
 * [PPT 8 - Transforms](pdf/ML8.pdf) - feature scaling, dimensionality reduction with PCA, manifold learning and t-SNE, pipelines
