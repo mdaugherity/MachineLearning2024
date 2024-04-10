@@ -42,7 +42,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 PLACEHOLDER
 
 ## Extra Topics
-* [PPT 9 - Regression](pdf/ML8.pdf) - predicting a real-valued number instead of a category
+* [PPT 8 - Regression](pdf/ML8.pdf) - predicting a real-valued number instead of a category
 
 <!---
 COMMENTS!!!!!
