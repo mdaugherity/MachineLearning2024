@@ -37,6 +37,13 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * [Tutorial 13 - Digits Dataset](tutorial/Tutorial_13_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
 * [Homework 4 - Digits Throwdown](class/HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 * [Homework 5 - Neural Network OCR](class/HW5_Neural_Network_OCR.ipynb): Train a neural network to read your own handwriting!
+
+## Recipes
+PLACEHOLDER
+
+## Extra Topics
+* [PPT 9 - Regression](pdf/ML8.pdf) - predicting a real-valued number instead of a category
+
 <!---
 COMMENTS!!!!!
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
@@ -50,7 +57,6 @@ Copy-and-paste code to get you started on a problem
 
 ## Special Topics
 * [PPT 8 - Transforms](pdf/ML8.pdf) - feature scaling, dimensionality reduction with PCA, manifold learning and t-SNE, pipelines
-* [PPT 9 - Regression](pdf/ML9.pdf) - predicting a real-valued number instead of a category
 * [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
 * [PPT 11 - Ensembles](pdf/ML11.pdf) - improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
 * [PPT 12 - Modern Methods](pdf/ML12.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs 
