@@ -30,6 +30,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * Bayesian Classifier: [PPT 5](pdf/ML5.pdf) | [Tutorial 12](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
 * Linear Models: [PPT 6](pdf/ML6.pdf)
 * Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](tutorial/Tutorial_14_Neural_Networks.ipynb)
+* Gradient Boosted Trees: [PPT 9](pdf/ML9.pdf) | [Tutorial 15](tutorial/Tutorial_15_Boosted_Trees.ipynb)
 
 ## Data Sets
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
@@ -42,7 +43,8 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 PLACEHOLDER
 
 ## Extra Topics
-* [PPT 8 - Regression](pdf/ML8.pdf) - predicting a real-valued number instead of a category
+* [PPT 8 - Regression](pdf/ML8.pdf) - Predicting a real-valued number instead of a category
+* [PPT 9 - Ensembles](pdf/ML9.pdf) - Improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
 
 <!---
 COMMENTS!!!!!
