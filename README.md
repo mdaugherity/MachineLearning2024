@@ -40,28 +40,19 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * [Homework 5 - Neural Network OCR](class/HW5_Neural_Network_OCR.ipynb): Train a neural network to read your own handwriting!
 
 ## Recipes
-PLACEHOLDER
+Copy-and-paste code to get you started on a problem
+* [Classification Recipe](tutorial/Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
+* [Regression Recipe](tutorial/Regression_Recipe.ipynb): Regression problems using pipelines and grid searches (doesn't include discussion on cleaning data)
 
 ## Extra Topics
 * [PPT 8 - Regression](pdf/ML8.pdf) - Predicting a real-valued number instead of a category
 * [PPT 9 - Ensembles](pdf/ML9.pdf) - Improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
+* [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
+* [PPT 12 - Modern Methods](pdf/ML12.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs
 
 <!---
 COMMENTS!!!!!
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
 * [Class Challenge](Class_Challenge_03_20_23.ipynb): Spring Break is over, let's remember how to do machine learning
-
-
-## Recipes
-Copy-and-paste code to get you started on a problem
-* [Classification Recipe](Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
-* [Regression Recipe](Regression_Recipe.ipynb): regression problems using pipelines and grid searches (doesn't include discussion on cleaning data)
-
-## Special Topics
-* [PPT 8 - Transforms](pdf/ML8.pdf) - feature scaling, dimensionality reduction with PCA, manifold learning and t-SNE, pipelines
-* [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
-* [PPT 11 - Ensembles](pdf/ML11.pdf) - improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
-* [PPT 12 - Modern Methods](pdf/ML12.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs 
-
 --->
 
