@@ -48,7 +48,7 @@ Copy-and-paste code to get you started on a problem
 * [PPT 8 - Regression](pdf/ML8.pdf) - Predicting a real-valued number instead of a category
 * [PPT 9 - Ensembles](pdf/ML9.pdf) - Improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
 * [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
-* [PPT 12 - Modern Methods](pdf/ML12.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs
+* [PPT 11 - Modern Methods](pdf/ML11.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs
 
 <!---
 COMMENTS!!!!!
