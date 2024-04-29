@@ -31,6 +31,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * Linear Models: [PPT 6](pdf/ML6.pdf)
 * Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](tutorial/Tutorial_14_Neural_Networks.ipynb)
 * Gradient Boosted Trees: [PPT 9](pdf/ML9.pdf) | [Tutorial 15](tutorial/Tutorial_15_Boosted_Trees.ipynb)
+* Deep Learning: [PPT 11](pdf/ML11.pdf) | [Tutorial 16](tutorial/Tutorial_16_Deep_Learning_Intro.ipynb) 
 
 ## Data Sets
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
@@ -49,6 +50,7 @@ Copy-and-paste code to get you started on a problem
 * [PPT 9 - Ensembles](pdf/ML9.pdf) - Improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
 * [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
 * [PPT 11 - Modern Methods](pdf/ML11.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs
+* 
 
 <!---
 COMMENTS!!!!!
