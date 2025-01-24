@@ -13,7 +13,7 @@
 ## Machine Learning Basics
 * [Tutorial 4 - First_Look_at_Data](tutorial/Tutorial_04_First_Look_at_Data.ipynb): Using scikit-learn and pandas to look at real data
 * [PPT 1 - Intro To Classifiers](pdf/ML1.pdf): The basic vocabulary of supervised learning and classifiers 
-* [Homework 1 - DIY_1D_Classifier](class/HW1_DIY_1D_Classifier.ipynb) | [HW1 Template](class/HW1_Template.ipynb): Make your own simple classifier!  Make that machine learn!
+* [Homework 1 - DIY_1D_Classifier](class/HW1_DIY_1D_Classifier.ipynb) : Make your own simple classifier!  Make that machine learn!
 * [Homework 2 - Won't You Be My Neighbor](class/HW2_Neighbors.ipynb) | [HW2 Template](class/HW2_Template.ipynb): Make a simple Nearest Neighbor classifier
 
 ## Classification Tools
