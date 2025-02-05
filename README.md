@@ -16,13 +16,13 @@
 * [Homework 1 - DIY_1D_Classifier](class/HW1_DIY_1D_Classifier.ipynb) : Make your own simple classifier!  Make that machine learn!
 
 ## Classification Tools
-* [Machine Learing Steps PPT][pdf/MLsteps.pdf): Big picture overview of the steps in machine learning
+* [Machine Learing Steps PPT](pdf/MLsteps.pdf): Big picture overview of the steps in machine learning
 * [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_examples.ipynb): Notes on how to score a classifier.  With Math!
 * [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
 * [Tutorial 6 - Tuning and Evaluation](tutorial/Tutorial_06_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 * [Tutorial 7 - Data Transforms and Pipelines](tutorial/Tutorial_07_Transforms_and_Pipelines.ipynb): The unskippable step of scaling data and why pipelines are great
 * [Tutorial 8 - First Classification Recipe](tutorial/Tutorial_08_First_Classification_Recipe.ipynb): Putting the pieces together into usable code!
-* [Homework 2 - Mystery Classifiers](class/HW2_Mystery_Classifiers.ipynb) : How to use a scikit-learn classifier 
+* [Homework 2 - Mystery Classifiers](class/HW2_Mystery_Classifiers.ipynb): How to use a scikit-learn classifier 
 
 ## Classifier Deep Dives
 For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
@@ -33,7 +33,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](tutorial/Tutorial_14_Neural_Networks.ipynb)
 * Gradient Boosted Trees: [PPT 9](pdf/ML9.pdf) | [Tutorial 15](tutorial/Tutorial_15_Boosted_Trees.ipynb)
 * Deep Learning: [PPT 11](pdf/ML11.pdf) | [Tutorial 16](tutorial/Tutorial_16_Deep_Learning_Intro.ipynb) 
-* [Homework 3 - Won't You Be My Neighbor](class/HW3_Neighbors.ipynb) : Make a simple Nearest Neighbor classifier
+* [Homework 3 - Won't You Be My Neighbor](class/HW3_Neighbors.ipynb): Make a simple Nearest Neighbor classifier
 
 ## Data Sets
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
