@@ -37,10 +37,10 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 
 ## Data Sets
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
-* [Homework 3 - Trees on the Titanic](class/HW3_Trees_on_the_Titanic.ipynb) | [HW3 Template](class/HW3_Template.ipynb): Find out who sinks and who swims on real Titanic data
+* [Homework 4 - Trees on the Titanic](class/HW4_Trees_on_the_Titanic.ipynb)  Find out who sinks and who swims on real Titanic data
 * [Tutorial 13 - Digits Dataset](tutorial/Tutorial_13_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
-* [Homework 4 - Digits Throwdown](class/HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
-* [Homework 5 - Neural Network OCR](class/HW5_Neural_Network_OCR.ipynb): Train a neural network to read your own handwriting!
+* [Homework 5 - Digits Throwdown](class/HW5_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
+* [Homework 6 - Neural Network OCR](class/HW6_Neural_Network_OCR.ipynb): Train a neural network to read your own handwriting!
 
 ## Recipes
 Copy-and-paste code to get you started on a problem
